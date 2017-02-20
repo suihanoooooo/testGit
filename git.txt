@@ -1,2 +1,2 @@
 this is a test git.text
-this is in branch dev
+conflict1
