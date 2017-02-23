@@ -1,7 +1,2 @@
-this is a test git.text
-conflict1
-
-bm's change
-
-bm's change in devssssss
+change in git1
 
