@@ -4,3 +4,5 @@ conflict1
 bm's change
 
 bm's change in dev
+
+conflict in dev
