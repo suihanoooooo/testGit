@@ -2,3 +2,5 @@ this is a test git.text
 conflict1
 
 bm's change
+
+shishi
