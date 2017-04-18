@@ -1,6 +1,6 @@
 this is a tes2 git.textddddd
 conflict1
-nnn
+nnc
 bm's change
 
 shishi   pull yixia
