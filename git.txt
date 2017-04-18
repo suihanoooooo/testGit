@@ -1,4 +1,4 @@
-this is a test git.textddddd
+this is a tes3 git.textddddd
 conflict1
 
 bm's change
